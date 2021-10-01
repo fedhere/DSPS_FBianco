@@ -20,3 +20,5 @@ follow the instructions in the notebook [Galrotation.ipynb](Galrotation.ipynb)
 Problem on MCMC and estimation of uncertainties (TBD)
 
 
+Problem 1 in [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf). You cannot choose: Gaussian, Poisson, or Binomial. Any other distribution is fine. Make sure that your chosen disrtibution has defined mean, variance, skewness, and kurtosis! (e.g. of a distribution with non defined is the Cauchy distribution, which is my favorite. Ask me why if you are curious!)
+You can find the "sampe extimated of the moments" [here](https://www.statisticshowto.datasciencecentral.com
