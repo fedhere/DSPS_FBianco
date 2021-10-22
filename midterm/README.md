@@ -2,7 +2,7 @@ WORK ALONE
 
 Ask questions on Slack at https://dsps21.slack.com/archives/C02JSD2GTPC
 
-The instructions will be made available on github at 4PM Friday (today)
+The instructions are available in the notebook [Instructions_mideterm2021.ipynb](Instructions_mideterm2021.ipynb)
 
 The STRICT NO EXCEPTIONS delivery deadline is Sunday 4PM
 
