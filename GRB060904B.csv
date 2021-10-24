@@ -1,4 +1,4 @@
-time,mag,tmpmagerr,filter,telescope,upperlimit
+time,mag,magerr,filter,telescope,upperlimit
 0.014985,18.68,0.42,B,RTT150,0
 0.017565,18.81,0.25,B,RTT150,0
 0.014464,17.98,0.21,V,RTT150,0
