@@ -10,3 +10,6 @@ We will pick a few random visualizations to discuss why the submitter thought th
 
 ![image](https://user-images.githubusercontent.com/1696902/139481812-3c4ad4f3-efde-4c1c-844f-6c2edd843ede.png)
 
+This plot suffers from density scaling: the dynamic range ofdensities of points in different regions of the plot is so significant that it is impossible to perceive simultaneously how dense the dense regions are and how far the data points extend into the plot space in the original version.
+
+I used transparency to increase the visibility of datapoints where the density of detapoints is not critically high and used contours to represent the point density where the density is so high that the transparency alone would not enable to differences in this region of the plot as well as still see the points that are more isolated. 
