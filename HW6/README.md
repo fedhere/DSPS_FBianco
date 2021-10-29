@@ -4,7 +4,8 @@
 We will pick a few random visualizations to discuss why the submitter thought they were "bad". While you can choose any scientific visualization it has to be a scientific visualization, meaning come from a paper published in a scientific journal or on arXiv as a pre-print. Instructions on getting the pre-prints if you're not familiar with them and you do not already have a plot in mind are in the lecture at the end.
 
 **Part 2 Due at regular homework deadline Sunday midnight**. Take a plot you made in the past (for a glass of research or even for this class) and make it _better_ following the best practices discussed in class. Post your “before” and “after” in a README.md mark down on GitHub in HW6 folder along with a description of what was improved and why
-![image](https://user-images.githubusercontent.com/1696902/139481862-a5e1528f-f83b-46d8-8022-3b06d0a6c5c2.png)
+
+![image](https://user-images.githubusercontent.com/1696902/139481925-9b25650c-94ec-491f-973b-645ae9110ee7.png)
 
 
 ![image](https://user-images.githubusercontent.com/1696902/139481812-3c4ad4f3-efde-4c1c-844f-6c2edd843ede.png)
