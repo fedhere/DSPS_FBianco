@@ -14,4 +14,8 @@ This plot suffers from density scaling: the dynamic range of densities of points
 
 I used transparency to increase the visibility of datapoints where the density of detapoints is not critically high and used contours to represent the point density where the density is so high that the transparency alone would not enable to differences in this region of the plot as well as still see the points that are more isolated. 
 
-I also modified the x tick labels by changing the axis notation and plotting the log of the points in their natural space, as opposed to the points in log space. This increases the readability of the values of Temperature
+Now features in the data, like the bridge of points at log-luminosity ~ 28 and log-effective temperature 3.6-3.8 which was hidden before.
+
+I also modified the x tick labels by changing the axis notation and plotting the log of the points in their natural space, as opposed to the points in log space. This increases the readability of the values of Temperature by enabling the display of more values and on the luminosity by reducing the complexity of the tick labels
+
+
