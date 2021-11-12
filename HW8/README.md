@@ -24,9 +24,9 @@ Either:
 
 - EC and 661
 
----- Download the script provided in the kaggle challenge to validate your model.
+  - Download the script provided in the kaggle challenge to validate your model.
 
----- Generate an output file as required by this script for your best model
+  - Generate an output file as required by this script for your best model
 
----- Report on the result
+  - Report on the result
 
