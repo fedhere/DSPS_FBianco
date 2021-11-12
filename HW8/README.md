@@ -12,7 +12,7 @@
 
 - Calculate the L1 and L2 metrics of each model and compare them.
 
-Either / or: 
+Either: 
 - do 
   
    - For the _Random Forest Classifier_, select the 4 most important features (see how in the Titanic notebook) 
