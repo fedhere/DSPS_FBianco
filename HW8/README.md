@@ -14,11 +14,11 @@
 
 Either: 
   
-  - For the _Random Forest Classifier_, select the 4 most important features (see how in the Titanic notebook) 
+    - For the _Random Forest Classifier_, select the 4 most important features (see how in the Titanic notebook) 
  
  or
  
- - For the _Random Forest Classifier_, explore the parameter space with the sklearn module sklearn.model_selection.RandomizedSearchCV for a model that uses only those features to predict the labels https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html#sphx-glr-auto-examples-model-selection-plot-randomized-search-py
+    - For the _Random Forest Classifier_, explore the parameter space with the sklearn module sklearn.model_selection.RandomizedSearchCV for a model that uses only those features to predict the labels https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html#sphx-glr-auto-examples-model-selection-plot-randomized-search-py
 
  - Generate an ROC curve plot for the best model and discuss it https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html or https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py
 
