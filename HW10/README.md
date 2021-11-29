@@ -1,3 +1,8 @@
+# HOMEWORK
+starting with the encoder model we created in the autoencoder digit reproduction exercise, create a feedforward NN for digit recognition. 
+
+The NN architecture can be similar to the one I created, or completely different. The inut have to be the same images, the output have to be actual number represented in the image
+
 # READING
 https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
 
