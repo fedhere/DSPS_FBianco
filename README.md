@@ -5,7 +5,7 @@ Welcome to Data Science for Physical Scientists, a class developed and taught by
 
 This class has a Code of Conduct Before you do anything else, please [review the code of conduct](https://bit.ly/dspsCoC). If you have questions of concerns about it let me know promptly
 
-Please review the Syllabus https://bit.ly/dspsSyllabus
+Please review the Syllabus https://bit.ly/dspsSyllabus25
 
 Slides https://slides.com/federicabianco/decks/dsps25
 
