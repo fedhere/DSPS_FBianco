@@ -7,7 +7,7 @@ This class has a Code of Conduct Before you do anything else, please [review the
 
 Please review the Syllabus https://bit.ly/dspsSyllabus
 
-Slides https://slides.com/federicabianco/decks/dsps23
+Slides https://slides.com/federicabianco/decks/dsps25
 
 Course Description
 
