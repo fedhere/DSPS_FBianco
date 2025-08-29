@@ -9,7 +9,7 @@ https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3r
 ## ASSIGNMENT
 - make an account on GitHub if you do not have one yet
 - Create a repository called DSPS_\<firstinitialLastname\>
-- fill in this form  https://forms.gle/GtufqNMfF9gCnzoG6
+- fill in this form  [https://forms.gle/GtufqNMfF9gCnzoG6](https://docs.google.com/forms/d/e/1FAIpQLSf3qvCAIMGHCtWXFf5zXrIICvPzKRsd25OC4Z8hfpZimRaGkg/viewform?usp=sharing&ouid=112841410988026175410)
 
 
 To create the GitHub repository follow the steps below:
