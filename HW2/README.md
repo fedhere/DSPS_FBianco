@@ -1,5 +1,7 @@
 # HOMEWORK 2
 
+**DUE 9/10 11:59 PM**
+
 # READING: 
 no reading this week
 
