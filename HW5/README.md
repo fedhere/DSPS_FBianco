@@ -8,7 +8,7 @@ Remember to include a README.md, in markdown format, that states how your team w
 # ASSIGMENT
 
 ## Calculate PI from hacking
-https://github.com/fedhere/DSPS_FBianco/blob/main/HW5/hacking_pi.ipynb
+https://github.com/fedhere/DSPS_FBianco/blob/main/HW5/hacking_PI.ipynb
 
 ## Linear regression
 Part 1 and 2 of the notebook https://github.com/fedhere/DSPS_FBianco/blob/main/HW5/fitlinetogrbafterglow_mcmc_instructions_dsps25.ipynb
