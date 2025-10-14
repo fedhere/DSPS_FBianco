@@ -14,7 +14,12 @@ Read the first five pages of https://arxiv.org/pdf/1910.10045.pdf through sectio
 
 ## 1. Kaggle data scaling
 
+- Task 1: make a kaggle account and set up your API (see below)
+- Task 2: read in the data for the World Happniess Dataset https://www.kaggle.com/datasets/unsdsn/world-happiness/data - use the 2025 data
+- For each numerical column X, prepare a column that is a _minmax_ version of X and a version that is the _standardized_ version of X, store them in the same or another dataframe (your choice) as, for example  X_minmax and  X_standardized (choose the variable or dataframe names you want, but make them meaningful and descriptive!)
+- For each numerical column pair X and Y make a scatter plot of Y vs X with the data as is read in, a scatter plot of Y_minmax vs X_minmax, and a scatter plot of Y_standardized and X_standardized
 
+### Here is how to make a kaggle account and set up your API
 Register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
 
 go to kaggle.com
@@ -63,3 +68,6 @@ envs = json.load(open("kaggle.json", "r"))
 os.environ["KAGGLE_USERNAME"] = envs['username']
 os.environ["KAGGLE_KEY"] = "e60b57c215e877e01a22375a3058eec1"#envs['key']
 ```
+
+once your API is set up and loaded in your colab notebook you can use it to read in data from kaggle https://codesolid.com/kaggle-datasets/
+
