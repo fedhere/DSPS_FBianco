@@ -12,12 +12,20 @@ Read the first five pages of https://arxiv.org/pdf/1910.10045.pdf through sectio
 
 # Assignment: 
 
-## 1. Kaggle data scaling
+## 1. Kaggle data scaling and clustering
 
 - Task 1: make a kaggle account and set up your API (see below)
 - Task 2: read in the data for the World Happniess Dataset https://www.kaggle.com/datasets/unsdsn/world-happiness/data - use the 2025 data
-- For each numerical column X, prepare a column that is a _minmax_ version of X and a version that is the _standardized_ version of X, store them in the same or another dataframe (your choice) as, for example  X_minmax and  X_standardized (choose the variable or dataframe names you want, but make them meaningful and descriptive!)
-- For each numerical column pair X and Y make a scatter plot of Y vs X with the data as is read in, a scatter plot of Y_minmax vs X_minmax, and a scatter plot of Y_standardized and X_standardized
+### scaling
+- Task 3: For each numerical column X, prepare a column that is a _minmax_ version of X and a version that is the _standardized_ version of X, store them in the same or another dataframe (your choice) as, for example  X_minmax and  X_standardized (choose the variable or dataframe names you want, but make them meaningful and descriptive!)
+- Task 4: For each numerical column pair X and Y make a scatter plot of Y vs X with the data as is read in, a scatter plot of Y_minmax vs X_minmax, and a scatter plot of Y_standardized and X_standardized
+### clustering
+- Task 5: Using KMeans clustering, cluster the scaled numerical features (choose either scaling) that are used to calculate the score: 'Family', 'Health (Life Expectancy)',
+       'Freedom', 'Trust (Government Corruption)', 'Generosity',
+       'Dystopia Residual' into 3 clusters
+- Task 6: Make a scatter plot with the cluster (0, 1, or 2) on the X axis, and the Happiness score _with its errorbar_ on the Y axis and, as usual, comment on the figure your _what, how, wow_
+- Task 7: extra credit for 461, required for 661: repeat for 2, 3, 4, 5 , 6, 7 and make a plot of KMeans intracluster variance vs the number of clusters (respectively Y and X) and discuss if this plots allows for a robust selection of the correct number of clusters
+  
 
 ### Here is how to make a kaggle account and set up your API
 Register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
