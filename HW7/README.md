@@ -26,6 +26,13 @@ Read the first five pages of https://arxiv.org/pdf/1910.10045.pdf through sectio
 - Task 6: Make a scatter plot with the cluster (0, 1, or 2) on the X axis, and the Happiness score _with its errorbar_ on the Y axis and, as usual, comment on the figure your _what, how, wow_
 - Task 7: extra credit for 461, required for 661: repeat for 2, 3, 4, 5 , 6, 7 and make a plot of KMeans intracluster variance vs the number of clusters (respectively Y and X) and discuss if this plots allows for a robust selection of the correct number of clusters
   
+### NOTES: 
+I am able to get the 2024 dataset from kaggle, a couple of versions of it in fact, with the dystopian residuals and the happiness score with uncertainties. In some cases the happiness score is called differntly: e.g. the file i am looking at now has `Ladder score` and instead of a single uncertainty you may have asymmetric quantiles e.g. `upperwhisker`	`lowerwhisker`.  What exactly you will find may depend on which kaggle dataset you used since kaggle is a public platform and people upload data which then becomes public. Indeed there are many versions of the world happiness dataset with slight formatting differences. I DO NOT REALLY CARE THAT YOU USE A SPECIFIC ONE this homework is about figuring out the process by yourself instead of having strictly prescriptive tasks from me! So:
+- use kaggle commands to explore kaggle datasets like  with the python command `kaggle.api.dataset_list(search=...)`  or the kaggle command that can be invoked in python with ! such as `!kaggle datasets list -s...`  - both accept keywords so you can use them with appropriate keywords to get the relevant files returned
+- download the file with kaggle commands like `!kaggle datasets download -d...`  , unzip it (from your colab notebook for reproducibility, use `!unzip…`) and read it with pandas or read it in with kaggle commands directly (I find this harder in general)
+- make sure the specific file has a _dystopian residuals_ column and a _happiness score_ and _uncertainties_ columns otherwise you won't be able to do all tasks - they may have slightly different names tho as discussed above
+ 
+I am not hung up on year 2024, but try to get a recent one (2020s)
 
 ### Here is how to make a kaggle account and set up your API
 Register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
