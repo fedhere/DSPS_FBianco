@@ -7,9 +7,6 @@ Helping Students Use GenAI to Think, Learn, and Grow--Without Losing the Skills 
 https://research.ebsco.com/c/5yi2sn/viewer/pdf/ylzl76v2g5?auth-callid=10c221d7-93f4-44c1-a3fa-756f4a087129
 
 
-# READING 
-Read the first five pages of https://arxiv.org/pdf/1910.10045.pdf through section 2.1 included
-
 # Assignment: 
 
 ## 1. Kaggle data scaling and clustering
@@ -25,6 +22,7 @@ Read the first five pages of https://arxiv.org/pdf/1910.10045.pdf through sectio
        'Dystopia Residual' into 3 clusters
 - Task 6: Make a scatter plot with the cluster (0, 1, or 2) on the X axis, and the Happiness score _with its errorbar_ on the Y axis and, as usual, comment on the figure your _what, how, wow_
 - Task 7: extra credit for 461, required for 661: repeat for 2, 3, 4, 5 , 6, 7 and make a plot of KMeans intracluster variance vs the number of clusters (respectively Y and X) and discuss if this plots allows for a robust selection of the correct number of clusters
+code that does clustering and inertia elbow plots can be foung here https://colab.research.google.com/gist/fedhere/7e0d43240380731b6b44a5549f45dc91/kmeans_interactive_elbowmethod.ipynb
   
 ### NOTES: 
 I am able to get the 2024 dataset from kaggle, a couple of versions of it in fact, with the dystopian residuals and the happiness score with uncertainties. In some cases the happiness score is called differntly: e.g. the file i am looking at now has `Ladder score` and instead of a single uncertainty you may have asymmetric quantiles e.g. `upperwhisker`	`lowerwhisker`.  What exactly you will find may depend on which kaggle dataset you used since kaggle is a public platform and people upload data which then becomes public. Indeed there are many versions of the world happiness dataset with slight formatting differences. I DO NOT REALLY CARE THAT YOU USE A SPECIFIC ONE this homework is about figuring out the process by yourself instead of having strictly prescriptive tasks from me! So:
