@@ -12,7 +12,7 @@ https://research.ebsco.com/c/5yi2sn/viewer/pdf/ylzl76v2g5?auth-callid=10c221d7-9
 ## 1. Kaggle data scaling and clustering
 
 - Task 1: make a kaggle account and set up your API (see below)
-- Task 2: read in the data for the World Happniess Dataset https://www.kaggle.com/datasets/unsdsn/world-happiness/data - use the 2024 data
+- Task 2: read in the data for the World Happniess Dataset e.g. https://www.kaggle.com/datasets/unsdsn/world-happiness/data - use the 2024 data (there are several in the kaggle database, see below)
 ### scaling
 - Task 3: For each numerical column X, prepare a column that is a _minmax_ version of X and a version that is the _standardized_ version of X, store them in the same or another dataframe (your choice) as, for example  X_minmax and  X_standardized (choose the variable or dataframe names you want, but make them meaningful and descriptive!)
 - Task 4: For each numerical column pair X and Y make a scatter plot of Y vs X with the data as is read in, a scatter plot of Y_minmax vs X_minmax, and a scatter plot of Y_standardized and X_standardized
