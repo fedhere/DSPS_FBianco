@@ -1,3 +1,11 @@
+# READING : 
+https://proceedings.mlr.press/v42/cowa14.pdf
+The Higgs boson machine learning challenge, Adam-Bourdarios et al. 2015
+
+
+# ASSIGNMENT: 
+Follow the notebook - these are generally the tasks you will need to complete (also outlined in the notebook)
+
 - Download the Higgs boson data from Kaggle (programmatically within the notebook, see how in the Titanic notebook)
 
 - Inspect, explore, clean the data as appropriate (missing values, however they encoded them, remove variables that should not be used etc)
