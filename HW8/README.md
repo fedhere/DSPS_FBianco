@@ -8,6 +8,8 @@
 
 - Produce a confusion matrix for each model and compare them
 
+- Produce a ROC curve for each model
+
 DSPS 661 students (EC for 461)
     
    - Use a _Random Forest and a Gradient Boosted Tree **Regressor**_ model to predict the weight of the particles.
@@ -17,11 +19,9 @@ DSPS 661 students (EC for 461)
 Both 661 and 461 students choose either: 
 
   
-   - For the _Random Forest Classifier_, select the 4 most important features (see how in the Titanic notebook) 
+   - For the _Random Forest Classifier_ and _Gradient Boosted Tree Classifier_, select the 4 most important features (see how in the Titanic notebook) 
  
 or  
-   - For the _Random Forest Classifier_, explore the parameter space with the sklearn module sklearn.model_selection.RandomizedSearchCV for a model that uses only those features to predict the labels https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html#sphx-glr-auto-examples-model-selection-plot-randomized-search-py
-
-  - Generate an ROC curve plot for the best model and discuss it https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html or https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py
+   - For the _Random Forest Classifier_, explore the parameter space with the sklearn module sklearn.model_selection.RandomizedSearchCV for a model that uses only those features to predict the labels https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html#sphx-glr-auto-examples-model-selection-plot-randomized-search-py. Generate an ROC curve plot for the best model and discuss it https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html or https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py
 
 The data is ok Kaggle, so get it like you did for the last couple of dataset (titanic, happiness)
