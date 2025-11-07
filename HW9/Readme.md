@@ -3,7 +3,7 @@ https://web.archive.org/web/20171114145335/http://data-informed.com/7-great-visu
 
 # Assignment: 
 
-##Work alone
+## Work alone
 
 **Due 11/10 at 11:59:59**
 
