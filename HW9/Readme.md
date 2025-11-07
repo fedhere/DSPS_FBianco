@@ -1,5 +1,7 @@
 # Assignment: 
 
+Work alone
+
 Due 11/10 at 11:59:59
 
 Select two visualizations from the scientific literature, a "good" one and a "bad" one, according to the standards established in the lecture on visualizations. 
