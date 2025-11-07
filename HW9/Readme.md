@@ -1,4 +1,4 @@
-# REQADING
+# READING
 https://web.archive.org/web/20171114145335/http://data-informed.com/7-great-visualizations-history/
 
 # Assignment: 
