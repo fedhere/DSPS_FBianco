@@ -2,7 +2,7 @@ Due 12/3/2025, 11:59:59
 
 **READ**: 
 
-https://dl.acm.org/doi/pdf/10.1145/3442188.3445922Links 
+https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 Sections 1 through 4 Due 12/3/2025 (will be included in 12/4 quiz), 5-8 Due 12/9
 
 I think this is a really important read so I will definitely quiz you on it!
