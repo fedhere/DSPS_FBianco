@@ -18,8 +18,8 @@ project:
     - title: "Getting Started"
       children:
         - file: students/README.md
-        - file: students/setup.md
-        - file: students/Syllabus.md
+        - file: students/Syllabus
+        - file: students/CodeofConduct.md
 
     - title: "Part I: Python Fundamentals"
       children:
