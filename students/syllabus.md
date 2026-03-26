@@ -14,7 +14,7 @@
 
 **Rules of engagement:** Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempts to marginalize students will be tolerated in my class. Be respectful and collaborate instead of competing. If you have concerns, please come talk to me.
 
-# READ THE FULL CODE OF CONDUCT https://bit.ly/dspsCoC
+# READ THE FULL CODE OF CONDUCT CodeofConduct.md
 
 ---
 
