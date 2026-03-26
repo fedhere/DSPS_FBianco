@@ -235,11 +235,11 @@ Lecture and reading schedule (details subject to change):
 
 **Professional Conduct**
 
-● Adhere to the University of Delaware Code of Conduct.
-● Be punctual (at the start of the class there will be quizzes, if you miss them because you are late you will NOT be given a make-up opportunity).
-● Complete all reading and homework assignments.
-● Be respectful of your peers and instructor.
-● Hold yourself accountable for your own academic performance.
+-  Adhere to the University of Delaware Code of Conduct.
+-  Be punctual (at the start of the class there will be quizzes, if you miss them because you are late you will NOT be given a make-up opportunity).
+-  Complete all reading and homework assignments.
+-  Be respectful of your peers and instructor.
+-  Hold yourself accountable for your own academic performance.
 
 Working collaboratively is allowed and encouraged in all assignments unless otherwise stated, but NOT for midterms and finals
 
