@@ -1,6 +1,6 @@
-# Data Science for Physical Scientists Fall 2025
+# PHYS461/661 : Data Science for Physical Scientists
 
-**PHYS 461/661**
+## Syllabus
 
 | **Meeting Days, Times, Location and Room** | Lecture, TTh 3:55PM - 5:15PM |
 | :--- | :--- |
