@@ -17,86 +17,88 @@ project:
     
     - title: "Getting Started"
       children:
-        - file: students/README.md
-        - file: students/Syllabus
-        - file: students/CodeofConduct.md
-
-    - title: "Part I: Python Fundamentals"
+      - file: README.md
+      - file: students/syllabus.md
+      - file: students/CodeofConduct.md
+      - file: L01_ClassObjectivesAndSetUp/Lecture_01.md
+      - file: L01_ClassObjectivesAndSetUp/README.md
+      - file: Labs/happyness20205.ipynb
+    - title: "Statistics Inference"
       children:
-        - file: lectures/Lecture_0/README.md
-        - file: lectures/Lecture_0/L0_intro2class.ipynb
-        - file: lectures/Lecture_1/README.md
-        - file: lectures/Lecture_1/L1_Unix_Python_intro.ipynb
-        - file: lectures/Lecture_2/README.md
-        - file: lectures/Lecture_2/L2_Python_basics.ipynb
-        - file: lectures/Lecture_2/L2_Python_basics_sol.ipynb
-        - file: lectures/Lecture_3/README.md
-        - file: lectures/Lecture_3/L3_DataStructures.ipynb
-        - file: lectures/Lecture_3/L3_DataStructures_sol.ipynb
-
-    - title: "Part II: Data Analysis & Visualization"
+      - file: L02_StatisticalFoundations/Lecture_02.md
+      - file: L02_StatisticalFoundations/README.md
+      - file: L02_StatisticalFoundations/combinatorialprob.ipynb
+      - file: L02_StatisticalFoundations/Instructions_Bayesian_posteriors.ipynb
+      - file: L03_NullHypothesisRejectionTesting/Lecture_03.md
+      - file: Labs/ztest.ipynb
+      - file: Labs/earthquake_data_munging.ipynb
+      - file: L03_NullHypothesisRejectionTesting/README.md
+      - file: L03_NullHypothesisRejectionTesting/MBoltzmannDistribution.ipynb
+      - file: L03_NullHypothesisRejectionTesting/KS_earthquakes_instructions.ipynb
+      - file: L03_NullHypothesisRejectionTesting/Corral2018pseudocodeKStest.md
+    - title: "Machine Learning"
       children:
-        - file: lectures/Lecture_4/README.md
-        - file: lectures/Lecture_4/L4_DataWrangling.ipynb
-        - file: lectures/Lecture_4/L4_DataWrangling_sol.ipynb
-        - file: lectures/Lecture_5/README.md
-        - file: lectures/Lecture_5/L5_Plotting.ipynb
-        - file: lectures/Lecture_5/L5_Plotting_sol.ipynb
-        - file: lectures/Lecture_6/README.md
-        - file: lectures/Lecture_6/L6_Pandas.ipynb
-        - file: lectures/Lecture_6/L6_Pandas_sol.ipynb
-
-    - title: "Part III: Statistical Inference"
+      - file: L04_ScalingLaws/Lecture_04.md
+      - file: L05_LinearRegression/Lecture_05.md
+      - file: Labs/diymcmc.ipynb
+      - file: L05_LinearRegression/README.md
+      - file: L05_LinearRegression/hacking_PI.ipynb
+      - file: L05_LinearRegression/fitlinetogrbafterglow_mcmc_instructions_dsps25.ipynb
+      - file: L06_IntroToMachineLearning/README.md
+      - file: L06_IntroToMachineLearning/Second_Half_fitlinetogrbafterglow_mcmc_instructions_dsps25.ipynb
+      - file: L07_ML_Clustering/Lecture_07.md
+      - file: L07_ML_Clustering/kmeans_interactive_elbowmethod_demo.ipynb
+      - file: Labs/in_class_clusteringGenes.ipynb
+      - file: L07_ML_Clustering/README.md
+      - file: L08_ML_ClassificationAndRegressionTrees/Lecture_08.md
+      - file: Labs/DSPS_2025_titanictree.ipynb
+      - file: L08_ML_ClassificationAndRegressionTrees/README.md
+      - file: L08_ML_ClassificationAndRegressionTrees/higgsbosonSearch_instructions.ipynb
+    - title: "Scientific Visualizations"
       children:
-        - file: lectures/Lecture_7/README.md
-        - file: lectures/Lecture_7/L7_Stats.ipynb
-        - file: lectures/Lecture_7/L7_Stats_sol.ipynb
-        - file: lectures/Lecture_8/README.md
-        - file: lectures/Lecture_8/L8_HypothesisTesting.ipynb
-        - file: lectures/Lecture_8/L8_HypothesisTesting_sol.ipynb
-        - file: lectures/Lecture_9/README.md
-        - file: lectures/Lecture_9/L9_CI_bootstrap.ipynb
-        - file: lectures/Lecture_9/L9_CI_bootstrap_sol.ipynb
-
-    - title: "Part IV: Machine Learning"
+      - file: L09_ScientificVisualizations/Lecture_09.md
+      - file: Labs/scattercontours.ipynb
+      - file: L09_ScientificVisualizations/README.md
+    - title: "Neural Networks"
       children:
-        - file: lectures/Lecture_10/README.md
-        - file: lectures/Lecture_10/L10_LinearRegression.ipynb
-        - file: lectures/Lecture_10/L10_LinearRegression_sol.ipynb
-        - file: lectures/Lecture_11/README.md
-        - file: lectures/Lecture_11/L11_Classification.ipynb
-        - file: lectures/Lecture_11/L11_Classification_sol.ipynb
-        - file: lectures/Lecture_12/README.md
-        - file: lectures/Lecture_12/L12_Clustering.ipynb
-        - file: lectures/Lecture_12/L12_Clustering_sol.ipynb
-        - file: lectures/Lecture_13/README.md
-        - file: lectures/Lecture_13/L13_DimReduction.ipynb
-        - file: lectures/Lecture_13/L13_DimReduction_sol.ipynb
-
-    - title: "Part V: Advanced Topics"
+      - file: L10_IntroToNeuralNetworks/Lecture_10.md
+      - file: Labs/kerasmnist_mlp.ipynb
+      - file: L10_IntroToNeuralNetworks/README.md
+      - file: Labs/DSPS2025_deepdream.ipynb
+      - file: L11_ConvolutionalNeuralNetworks/Lecture_11.md
+      - file: L11_ConvolutionalNeuralNetworks/README.md
+      - file: L11_ConvolutionalNeuralNetworks/Convolutional_aenc_faces_instructions.ipynb
+      - file: L12_PhysicsInformedNeuralNetworks/Lecture_12.md
+      - file: Labs/pinn_burgers_tofillin.ipynb
+      - file: L12_PhysicsInformedNeuralNetworks/README.md
+      - file: L12_PhysicsInformedNeuralNetworks/ViTforGW_tocomplete.ipynb
+      - file: L12_PhysicsInformedNeuralNetworks/pieces_of_codes.md
+      - file: L13_Transformers/Lecture_13.md
+      - file: L13_Transformers/README.md
+      - file: L14_AlphaFold/Lecture_14.md
+      - file: Labs/AlphaFold2.ipynb
+      - file: L14_AlphaFold/README.md
+    - title: "Labs"
       children:
-        - file: lectures/Lecture_14/README.md
-        - file: lectures/Lecture_14/L14_NeuralNetworks.ipynb
-        - file: lectures/Lecture_14/L14_NeuralNetworks_sol.ipynb
-        - file: lectures/Lecture_15/README.md
-        - file: lectures/Lecture_15/L15_DeepLearning.ipynb
-        - file: lectures/Lecture_15/L15_DeepLearning_sol.ipynb
-        - file: lectures/Lecture_16/README.md
-        - file: lectures/Lecture_16/L16_TimeSeries.ipynb
-        - file: lectures/Lecture_16/L16_TimeSeries_sol.ipynb
-
-    - title: "Part VI: Projects"
+      - file: Labs/in_class_DIYMCMC.ipynb
+    - title: "Data"
       children:
-        - file: projects/README.md
-        - file: projects/Project1/Project1.ipynb
-        - file: projects/Project2/Project2.ipynb
-        - file: projects/FinalProject/FinalProject.ipynb
-
+      - file: data/README.md
     - title: "Resources"
       children:
-        - file: resources/cheatsheets.md
-        - file: resources/references.md
-        - file: resources/glossary.md
+      - file: resources/cheatsheets.md
+      - file: resources/references.md
+      - file: resources/glossary.md
+    - title: "Solutions"
+      children:
+      - file: L03_NullHypothesisRejectionTesting/MBoltzmannDistribution_solution.ipynb
+      - file: Labs/hacking_PI_solution.ipynb
+      - file: L04_ScalingLaws/KS_earthquakes_solution.ipynb
+      - file: L04_ScalingLaws/MWrotCurve_solution.ipynb
+      - file: L06_IntroToMachineLearning/FitLineToGRBAfterGlow_mcmc_solution_DSPS23.ipynb
+      - file: L08_ML_ClassificationAndRegressionTrees/higgsbosonSearch_solution2025.ipynb
+      - file: L12_PhysicsInformedNeuralNetworks/ViTforGW.ipynb
+	  
 
 site:
   template: book-theme
