@@ -1,4 +1,4 @@
-# HOMEWORK 2
+# Week 2 Assignment
 
 **DUE 9/10 11:59 PM**
 
