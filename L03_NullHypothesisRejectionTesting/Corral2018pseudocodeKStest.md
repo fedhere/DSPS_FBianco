@@ -1,4 +1,4 @@
-# Section 3 
+# Partial Solution to Section 3 
 
 # Goal: compare the distribution of time gaps between earthquakes for magnitude M > Mk with that of  
 time gaps between earthquakes of magnitude M > Ml for various values of Ml and Mk.
