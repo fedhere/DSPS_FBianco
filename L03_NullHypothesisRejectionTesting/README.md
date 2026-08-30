@@ -1,4 +1,4 @@
-# Homework 3
+# Week 3 Assignments
 
 ## DUE 9/17 at 11:59
 
