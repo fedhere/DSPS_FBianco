@@ -1,6 +1,5 @@
-# PHYS461/661 : Data Science for Physical Scientists
+# PHYS461/661 : Data Science for Physical Scientists Syllabus
 
-## Syllabus
 
 | **Meeting Days, Times, Location and Room** | Lecture, TTh 3:55PM - 5:15PM |
 | :--- | :--- |
