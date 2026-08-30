@@ -1,4 +1,5 @@
-# here you have all the blocks of code that are needed to complete the ViTr model, but in random order... so you read through them and dont just cut and paste the whole thing!
+# Pieces of code for assignment
+## here you have all the blocks of code that are needed to complete the ViTr model, but in random order... so you read through them and dont just cut and paste the whole thing!
 
 x = self.patch_embed(patches)  # (batch, num_patches, embed_dim)
 
