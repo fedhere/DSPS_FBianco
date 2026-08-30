@@ -1,4 +1,6 @@
-# DUE 9/17 at 11:59
+# Homework 3
+
+## DUE 9/17 at 11:59
 
 # READING: 
 Read the Corral 2018 paper that you are reproducing in the homework assignment: https://arxiv.org/pdf/0910.0055.pdf
