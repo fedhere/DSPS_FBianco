@@ -1,4 +1,4 @@
-  # HW1
+  # Week 1 Assignment
 
 ## READING 
 
