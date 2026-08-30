@@ -1,6 +1,4 @@
-# PHYS461/661 : Data Science for Physical Scientists 
-
-## Code of Conduct:
+# PHYS461/661 : Data Science for Physical Scientists Code of Conduct
 
 ### TL;DR
 
