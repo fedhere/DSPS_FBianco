@@ -1,4 +1,6 @@
-# READING : 
+# Week 8 Assignment
+
+## READING : 
 https://proceedings.mlr.press/v42/cowa14.pdf
 The Higgs boson machine learning challenge, Adam-Bourdarios et al. 2015
 
