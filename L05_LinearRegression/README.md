@@ -1,4 +1,5 @@
-# READING: 
+# Week 5 Assignment
+## READING: 
 
 Read the Sessions 1 and 2 of [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf).
 
