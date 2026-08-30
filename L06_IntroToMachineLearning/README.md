@@ -1,6 +1,6 @@
-# Due 10/15 11:59 PM
+# Week 6 Assignment
 
-# READING
+## READING
 
 The Earth Is Round (p < .05) (Cohen 1994) : a critique of the NHRT method
 
