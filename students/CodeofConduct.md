@@ -1,4 +1,4 @@
-# PHYS461/661 : Data Science for Physical Scientists
+# PHYS461/661 : Data Science for Physical Scientists Syllabus
 
 ## Code of Conduct:
 
