@@ -1,4 +1,4 @@
-ame: Deploy MyST site to GitHub Pages
+name: Deploy MyST site to GitHub Pages
 
 on:
   push:
